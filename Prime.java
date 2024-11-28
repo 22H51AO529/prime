@@ -19,5 +19,6 @@ class Prime{
             }
         }
         System.out.println("Prime");
+ System.out.println("Java");
     }
 }
