@@ -18,5 +18,6 @@ class Prime{
                 System.out.println(i+" ");
             }
         }
+        System.out.println("Prime");
     }
 }
